@@ -193,8 +193,9 @@ This project shows:
 ## 📬 Author
 
 **Md Hasanul Kabir**
-📧 Email: your-email
+📧 Email: hasanul.kabir09@gmail.com
 🔗 GitHub: [https://github.com/hasanulkabir-md](https://github.com/hasanulkabir-md)
 
 ---
+
 
