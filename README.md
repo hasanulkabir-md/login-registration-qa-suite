@@ -1,5 +1,3 @@
----
-
 # 📘 **Login & Registration QA Suite**
 
 *A Complete QA Testing Project — Manual Tests • API Automation • Mock Backend • DB Validation*
@@ -199,3 +197,4 @@ This project shows:
 🔗 GitHub: [https://github.com/hasanulkabir-md](https://github.com/hasanulkabir-md)
 
 ---
+
